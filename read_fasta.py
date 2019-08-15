@@ -1,4 +1,6 @@
 import sys
+""" reads the file and returns a sequence
+"""
 
 def read_fasta(filename):
     sequence = ''
